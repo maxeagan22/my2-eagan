@@ -34,3 +34,8 @@ These are some of my favorite sports. There are many sports out there to watch a
 | Basketball| Fast- Paced | 3 |
 | Soccer | Fun | 3 |
 | Baseball | Relaxing | 4 |
+
+***
+
+## Pithy Quotes
+> However difficult life may seem, there is always something you can do and succeed at. - *Stephen Hawking*
