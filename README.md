@@ -38,4 +38,6 @@ These are some of my favorite sports. There are many sports out there to watch a
 ***
 
 ## Pithy Quotes
-> However difficult life may seem, there is always something you can do and succeed at. - *Stephen Hawking*
+> "However difficult life may seem, there is always something you can do and succeed at" - *Stephen Hawking*
+
+> "Somewhere, something incredible is waiting to be known.” - *Carl Sagan*
