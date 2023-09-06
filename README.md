@@ -41,3 +41,18 @@ These are some of my favorite sports. There are many sports out there to watch a
 > "However difficult life may seem, there is always something you can do and succeed at" - *Stephen Hawking*
 
 > "Somewhere, something incredible is waiting to be known.” - *Carl Sagan*
+
+***
+
+### Code Fencing
+> How would you compare JQuery Objects?
+[Stack Overflow](https://stackoverflow.com/questions/2436966/how-would-you-compare-jquery-objects)
+
+```
+var divs = $("div");
+var divs2 = $("div");
+
+if (divs.length == divs2.length && divs.length == divs.filter(divs2).length) {         
+  // They are equal
+}
+```
