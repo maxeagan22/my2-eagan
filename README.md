@@ -8,3 +8,13 @@ hanging out at the beach. I also like that their isn't as much travel compared t
 
 **The Grass is always greener on the other side** <br>
 **Actions speak louder than words**
+
+***
+
+# Favorite ctivites at :ake of the Ozarks
+1. Boating
+2. Water Skiing
+3. Fishing
+
+
+
