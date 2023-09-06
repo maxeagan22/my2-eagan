@@ -11,10 +11,13 @@ hanging out at the beach. I also like that their isn't as much travel compared t
 
 ***
 
-# Favorite ctivites at :ake of the Ozarks
+# Favorite activites and food at lake of the Ozarks
 1. Boating
 2. Water Skiing
 3. Fishing
 
+* Carribean Chicken Sandwhich - Coconuts Carribean Beach Bar & Grill
+* Fried Pickles - Coconuts Carribean Beach Bar & Grill
+* Buffalo Chicken Pizza - Captain Ron's Bar & Grill
 
 
