@@ -49,10 +49,7 @@ These are some of my favorite sports. There are many sports out there to watch a
 [Stack Overflow](https://stackoverflow.com/questions/2436966/how-would-you-compare-jquery-objects)
 
 ```
-var divs = $("div");
-var divs2 = $("div");
+if ($(selectionOne)[0] === $(selectionTwo)[0]) {
+} 
 
-if (divs.length == divs2.length && divs.length == divs.filter(divs2).length) {         
-  // They are equal
-}
 ```
