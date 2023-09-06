@@ -28,9 +28,9 @@ hanging out at the beach. I also like that their isn't as much travel compared t
 ## My Favorite Sports
 These are some of my favorite sports. There are many sports out there to watch and I enjoyed watching many of them. These are some of my favorite and the reasons I like to watch them. 
 
-| Sport | Reason I Watch | Hours |
+| Sport | Reason I Watch | Hours Spent Per Week Watching |
 | ----- | -------------- | ----- | 
-| Football| Competetive | :7: |
-| Basketball| Fast- Paced | :3: |
-| Soccer | Fun | :3: |
-| Baseball | Relaxing | :4: |
+| Football| Competetive | 7 |
+| Basketball| Fast- Paced | 3 |
+| Soccer | Fun | 3 |
+| Baseball | Relaxing | 4 |
