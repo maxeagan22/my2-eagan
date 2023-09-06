@@ -11,7 +11,7 @@ hanging out at the beach. I also like that their isn't as much travel compared t
 
 ***
 
-# Favorite activites and food at Lake of the Ozarks
+## Favorite activites and food at Lake of the Ozarks
 1. Boating
 2. Water Skiing
 3. Fishing
@@ -22,3 +22,15 @@ hanging out at the beach. I also like that their isn't as much travel compared t
 
 
 [About Me](MyStats.md)
+
+*** 
+
+## My Favorite Sports
+These are some of my favorite sports. There are many sports out there to watch and I enjoyed watching many of them. These are some of my favorite and the reasons I like to watch them. 
+
+| Sport | Reason I Watch | Hours |
+| ----- | -------------- | ----- | 
+| Football| Competetive | :7: |
+| Basketball| Fast- Paced | :3: |
+| Soccer | Fun | :3: |
+| Baseball | Relaxing | :4: |
