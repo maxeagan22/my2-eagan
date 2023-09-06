@@ -53,3 +53,4 @@ if ($(selectionOne)[0] === $(selectionTwo)[0]) {
 } 
 
 ```
+Link to code snipeet <https://css-tricks.com/snippets/jquery/compare-jquery-objects/>
